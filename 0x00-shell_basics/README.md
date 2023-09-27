@@ -1,1 +1,1 @@
-This is the project directory
+this is the project directory
